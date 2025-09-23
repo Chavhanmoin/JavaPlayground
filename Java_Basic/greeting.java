@@ -1,7 +1,7 @@
-//import java.util.Scanner;
+package Java_Basic;//import java.util.Scanner;
 //
-//Take name as input and print a greeting message.
-//public class greeting {
+//Take name as input and print a Java_Basic.greeting message.
+//public class Java_Basic.greeting {
 //    public static void main(String[] args) {
 //        System.out.print("Pls Enter your name: ");
 //        Scanner name = new Scanner(System.in);

@@ -1,8 +1,10 @@
+package Java_Basic;
+
 import java.util.Scanner;
 
 public class simpleinterest {
     public static void main(String[] args) {
-        System.out.println("Welcome to SI calculator");
+        System.out.println("Welcome to SI Java_Basic.calculator");
         Scanner num = new Scanner(System.in);
         System.out.print("Enter Principle amount: ");
         float amount = num.nextFloat();

@@ -1,3 +1,5 @@
+package Java_Basic;
+
 import java.util.Scanner;
 
 //Write a program to check whether a number is even or odd (with user input).
